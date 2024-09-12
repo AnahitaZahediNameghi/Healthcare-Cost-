@@ -20,4 +20,13 @@ and some significant insights I obtained via writing queries:
 15) Regions with Highest Average BMI
 16) Regions with Most Non-Smokers
 
+Insights)
+1- The average charges are highest in the Northeast and lowest in the Northwest.
+2- The +61 age group has the highest average BMI, while the 18-30 age group has the lowest.
+3- The Southeast has the highest percentage of smokers, whereas the Southwest and Northwest have the lowest.
+4- Smokers have significantly higher average charges compared to non-smokers.
+5- The age group of 56-65 has the highest average charges, while the 18-25 age group has the lowest.
+6- The Southeast has the maximum average charges, while the Southwest has the minimum.
+7- The Southeast has the highest average BMI, whereas the Northeast has the lowest.
+
 Contact: If you have any questions, you can contact me via: AnahitaZahediNameghi@gmail.com 
